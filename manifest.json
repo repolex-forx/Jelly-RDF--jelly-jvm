@@ -10055,8 +10055,8 @@
     },
     {
       "commit": "a20a68eae1759566759fafc39a7012f9f7669e30",
-      "parsed_at": "2026-03-30T07:23:27.290641+00:00",
-      "tag": "v0.11.3",
+      "parsed_at": "2026-03-30T12:36:38.593023+00:00",
+      "tag": "v0.11.6",
       "filetree": "filetree/a20a68eae1759566759fafc39a7012f9f7669e30.nq.gz",
       "blobs": [
         "blob/62c3c1cf454c92552be4109256161edbbdaa7d33.nq.gz",
@@ -10092,6 +10092,7 @@
         "blob/f92a4347ba27f4a184d6dc372569c685a3c977e6.nq.gz",
         "blob/f0c9fc42f68a47f297df2cbbb011c795b2053ed3.nq.gz",
         "blob/9d18c0d5d0034c0c40b4a9e2110f4019861274f2.nq.gz",
+        "blob/94f87bee7d6fbd90205f43a42698328d7779f2cb.nq.gz",
         "blob/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64.nq.gz",
         "blob/3f3b9322272a7dab015d25b64f888d2255c0b1d4.nq.gz",
         "blob/a6a817ca549f3f406a011327ce5f6f1de536f0bd.nq.gz",
