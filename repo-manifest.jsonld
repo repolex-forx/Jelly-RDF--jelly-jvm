@@ -470,8 +470,9 @@
     {
       "@id": "https://repolex.ai/r/Jelly-RDF/jelly-jvm/commit/39a66eeb19114eff7f645c3ec95c595bb6b295b0",
       "git:hexsha": "39a66eeb19114eff7f645c3ec95c595bb6b295b0",
-      "repolex:parseStatus": "pending",
-      "git:tagName": "v2.8.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v2.8.0",
+      "repolex:parsedAt": "2026-03-31T10:58:06.497936+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Jelly-RDF/jelly-jvm/commit/3bae431178b2a67f955c8aef550f964289770247",
